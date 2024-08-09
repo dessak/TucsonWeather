@@ -33,3 +33,6 @@ Request Endpoint Parameters: https://www.ncei.noaa.gov/support/access-data-servi
         'TAVG', 'THIC', 'TMAX', 'TMIN', 'TOBS', 'TSUN', 'WDF1', 'WDF2', 'WDF5', 'WDFG', 'WDFM', 'WDMV', 'WESD',
         'WESF', 'WSF1', 'WSF2', 'WSF5', 'WSFG', 'WSFM', 'WT01', 'WT02', 'WT03', 'WT04', 'WT05', 'WT06', 'WT07',
         'WT08', 'WT09', 'WT10', 'WT11', 'WT13', 'WT14', 'WT16', 'WT18', 'WT19', 'WT21', 'WT22', 'WV03'
+
+## Tucson Historical Maximum and Minimum Temperature Differences From Average
+![12 Month Rolling Average Difference](TucsonHistoricalTemps.png)
